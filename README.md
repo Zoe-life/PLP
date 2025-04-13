@@ -1,4 +1,4 @@
-# PLP - Power Learning Project
+# PLP - Power Learn Project
 
 This repository contains a collection of Python projects and exercises created as part of a learning journey on the Power Learn Project. The projects are organized into folders, with each folder focusing on a specific topic or application.
 
